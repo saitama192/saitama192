@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saitama192
 - 👀 I’m interested in game design and scripting
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me ...
 
